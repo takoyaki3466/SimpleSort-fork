@@ -1,5 +1,5 @@
 name: SimpleSort-fork
-version: '2.0'
+version: '2.2'
 main: org.takoyaki3466.simpleSortFork.SimpleSortFork
 api-version: '1.21'
 description: A simple inventory/chest sorting plugin.

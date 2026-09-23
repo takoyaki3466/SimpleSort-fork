@@ -6,7 +6,7 @@
 
     <groupId>org.takoyaki3466</groupId>
     <artifactId>simplesort-fork</artifactId>
-    <version>2.1</version>
+    <version>2.2</version>
     <packaging>jar</packaging>
 
     <name>SimpleSort-fork</name>
@@ -65,7 +65,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.21.11-R0.1-SNAPSHOT</version>
+            <version>26.3.build.9-alpha</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
